@@ -1,0 +1,35 @@
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\bin\Debug\doannet2.exe.config
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\bin\Debug\doannet2.exe
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\bin\Debug\doannet2.pdb
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\bin\Debug\Guna.UI2.dll
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.csprojAssemblyReference.cache
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.LoginForm.resources
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.Properties.Resources.resources
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.csproj.GenerateResource.cache
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.csproj.CoreCompileInputs.cache
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.csproj.CopyComplete
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.exe
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.pdb
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.Splash.resources
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.ProductForm.resources
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.CategoryForm.resources
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.SellerForm.resources
+C:\Users\CHU SON TUNG\source\repos\doannet2\doannet2\obj\Debug\doannet2.SellingForm.resources
+C:\Phongvan\doannet2\doannet2\bin\Debug\doannet2.exe.config
+C:\Phongvan\doannet2\doannet2\bin\Debug\doannet2.exe
+C:\Phongvan\doannet2\doannet2\bin\Debug\doannet2.pdb
+C:\Phongvan\doannet2\doannet2\bin\Debug\Guna.UI2.dll
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.csproj.AssemblyReference.cache
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.csproj.SuggestedBindingRedirects.cache
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.CategoryForm.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.LoginForm.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.ProductForm.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.Properties.Resources.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.SellerForm.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.SellingForm.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.Splash.resources
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.csproj.GenerateResource.cache
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.csproj.CoreCompileInputs.cache
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.csproj.CopyComplete
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.exe
+C:\Phongvan\doannet2\doannet2\obj\Debug\doannet2.pdb
